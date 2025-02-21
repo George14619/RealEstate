@@ -69,6 +69,14 @@ img{
     background-color: orange;
     height: 20vh;
 }
+.about-header{
+    background-color: orange;
+    height: 20vh;
+}
+.blog-header{
+    background-color: orange;
+    height: 20vh;
+}
 .header-container {
     display :flex;
     flex-direction: column;
